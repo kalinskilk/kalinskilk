@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**kalinskilk/kalinskilk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Programmer Skills
 
-Here are some ideas to get you started:
+⚡️ Javascript
+<br/>
+![GitHub](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/20px-Angular_full_color_logo.svg.png) Angular
+<br/>
+⚡️  Node.js
+<br/>
+⚡️ Nest.js
+<br/>
+⚡️ Express.js
+<br/>
+⚡️ Graphql
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Test Skills
+⚡️ Cypress
+<br/>
+⚡️ Jest
+
+
+# More Infos / Contact
+[![GitHub](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/120px-LinkedIn_Logo.svg.png)](https://www.linkedin.com/in/lucas-kalinski-da-cunha-1492ab20b/)
