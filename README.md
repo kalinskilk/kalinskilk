@@ -5,6 +5,8 @@
 <br/>
 ![GitHub](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/20px-Angular_full_color_logo.svg.png) Angular
 <br/>
+⚡️  Ionic
+<br/>
 ⚡️  Node.js
 <br/>
 ⚡️ Nest.js
@@ -12,6 +14,12 @@
 ⚡️ Express.js
 <br/>
 ⚡️ Graphql
+<br/>
+⚡️ SQL Server
+<br/>
+⚡️ MYSQL
+<br/>
+⚡️ POSTGRESQL
 <br/>
 
 ## Test Skills
