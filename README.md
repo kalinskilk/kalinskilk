@@ -26,7 +26,8 @@
 ⚡️ Cypress
 <br/>
 ⚡️ Jest
-
+<br/>
+⚡️ Karma
 
 # More Infos / Contact
 [![GitHub](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/120px-LinkedIn_Logo.svg.png)](https://www.linkedin.com/in/lucas-kalinski-da-cunha-1492ab20b/)
