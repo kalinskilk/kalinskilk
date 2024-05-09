@@ -7,11 +7,17 @@
 <br/>
 ⚡️  Ionic
 <br/>
+⚡️  React
+<br/>
+⚡️  Vue
+<br/>
 ⚡️  Node.js
 <br/>
 ⚡️ Nest.js
 <br/>
 ⚡️ Express.js
+<br/>
+⚡️ Rest
 <br/>
 ⚡️ Graphql
 <br/>
