@@ -40,6 +40,9 @@
 <a href="https://github.com/kalinskilk/rest-nest-movie">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kalinskilk&repo=rest-nest-movie" />
 </a>
+<a href="https://github.com/kalinskilk/graphql-nest-movie">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kalinskilk&repo=graphql-nest-movie" />
+</a>
 
 <br/>
 
