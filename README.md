@@ -32,7 +32,9 @@
 <a href="https://github.com/kalinskilk/ng-directive-reorder-columns-table">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kalinskilk&repo=ng-directive-reorder-columns-table" />
 </a>
-
+<a href="https://github.com/kalinskilk/ng-lottie">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kalinskilk&repo=ng-lottie" />
+</a>
 <br/>
 
 # <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original-wordmark.svg" alt="nestjs" width="40" height="40"/> </a> Nest.js projects
