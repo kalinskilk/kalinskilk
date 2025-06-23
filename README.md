@@ -78,7 +78,7 @@
 
 ---
 
-# <a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" alt="csharp" width="40" height="40"/> </a> C#
+# <a href="https://dotnet.microsoft.com/pt-br/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" alt="csharp" width="40" height="40"/> </a> C#
 
 <a href="https://github.com/kalinskilk/desafio-c-sharp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kalinskilk&repo=desafio-c-sharp" />
